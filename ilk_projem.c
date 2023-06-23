@@ -1,6 +1,6 @@
 #include<studio.h>
 
-int main() {
+int main()  {
 
 int a,b,c;
 a=0;
